@@ -1,4 +1,4 @@
-Syllabus - Computational Statistics Summer Semester 2019
+***Syllabus - Computational Statistics Summer Semester 2019***
 
 Lecture 1: Basic random number generation
 
@@ -87,8 +87,9 @@ Lecture 9: Association rules
     Generalized association rule mining, including bump hunting
 
 Literature
-    Rizzo, M.L. (2008): Statistical Computing with R, Chapman & Hall/CRC (available via eAccess (second edition, 2019))
-    Abraham, B. and Ledolter, J. (2006): Introduction to Regression Modeling, Thomson/Brooks Cole.
-    Hastie, T.; Tibshirani, R. and Friedman, J. (2009): The Elements of Statistical Learning, Springer. (available online)
+
+    * Rizzo, M.L. (2008): Statistical Computing with R, Chapman & Hall/CRC (available via eAccess (second edition, 2019))
+    * Abraham, B. and Ledolter, J. (2006): Introduction to Regression Modeling, Thomson/Brooks Cole.
+    * Hastie, T.; Tibshirani, R. and Friedman, J. (2009): The Elements of Statistical Learning, Springer. (available online)   
 
 The course use R: Tidyverse by installing the package tidyverse. This package is actually a collection of packages and we will make use of some of them, like ggplot2, readr or dplyr.
